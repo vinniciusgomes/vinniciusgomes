@@ -1,6 +1,5 @@
 ## Hello, I’m Vinnicius Gomes 👋
 [![Portfolio Badge](https://img.shields.io/badge/Portfolio-vinniciusgomes.dev-black)](https://vinniciusgomes.dev)
-[![Github Badge](https://img.shields.io/badge/-GitHub-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/vinniciusgomes)](https://github.com/vinniciusgomes)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vinniciusgomes/)](https://www.linkedin.com/in/vinniciusgomes/) 
 [![Medium Badge](https://img.shields.io/badge/-Medium-292929?style=flat-square&labelColor=292929&logo=Medium&link=https://medium.com/@vinniciusgomes/)](https://medium.com/@vinniciusgomes/)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/vinniciusgomees)](https://twitter.com/vinniciusgomees)
