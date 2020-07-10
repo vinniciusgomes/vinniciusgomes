@@ -1,4 +1,4 @@
-## Hello, I’m Vinnicius Gomes :octocat:
+## Hello, I’m Vinnicius Gomes 🤙
 [![Portfolio Badge](https://img.shields.io/badge/Website-vinniciusgomes.dev-black)](https://vinniciusgomes.dev)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vinniciusgomes/)](https://www.linkedin.com/in/vinniciusgomes/) 
 [![Medium Badge](https://img.shields.io/badge/-Medium-292929?style=flat-square&labelColor=292929&logo=Medium&link=https://medium.com/@vinniciusgomes/)](https://medium.com/@vinniciusgomes/)
