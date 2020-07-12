@@ -17,3 +17,8 @@ I am a React Architect, currently working at <a href="https://zappts.com" target
 - 💬⠀Favorite phrase: I am passionate about delivering outstanding projects and promoting unforgettable experiences to people.
 - 🚀⠀Technologies: React JS, React Native, NodeJS, TypeScript and more!
 - 👨🏻‍💻⠀My Website: [vinniciusgomes.dev](https://vinniciusgomes.dev)
+
+
+<p align='center'>
+    <img align='center' src="https://visitor-badge.glitch.me/badge?page_id=vinniciusgomes.visitor-badge">
+<p/>
