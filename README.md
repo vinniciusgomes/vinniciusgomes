@@ -1,3 +1,7 @@
+<p align="center">
+    <img alt="Vinnicius Gomes" src="./logo.png" width="300px" />
+</p>
+
 ## Hello, I’m Vinnicius Gomes 🤙
 [![Portfolio Badge](https://img.shields.io/badge/Website-vinniciusgomes.dev-black)](https://vinniciusgomes.dev)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vinniciusgomes/)](https://www.linkedin.com/in/vinniciusgomes/) 
