@@ -1,5 +1,5 @@
 <p align="center">
-    <img alt="Vinnicius Gomes" src="./logo.png" width="300px" />
+    <img alt="Vinnicius Gomes" src="logo.png" width="300px" />
 </p>
 
 ## Hello, I’m Vinnicius Gomes 🤙
