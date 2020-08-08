@@ -28,6 +28,9 @@ I am a React Architect, currently working at <a href="https://zappts.com" target
 
 <br />
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=vinniciusgomes&show_icons=true" alt="vinniciusgomes" />
+</p>
 
 <p align="center">
     <a href="https://github.com/vinniciusgomes" target="_blank"><img alt="vinniciusgomes" src="https://badges.pufler.dev/visits/vinniciusgomes/vinniciusgomes?logo=GitHub&label=Visits&color=success&logoColor=white&style=flat-square"/></a>
