@@ -13,7 +13,7 @@ I am a React Architect, currently working at <a href="https://zappts.com" target
 
 ```js
 const importantLinks = {
-   💻 GitHub: 'https://github.com/vinniciusgomes', 
+   📒 Medium: 'https://medium.com/@vinniciusgomes', 
    👨🏻‍💻 My Website: 'https://vinniciusgomes.dev',
    👋 Email: 'hello@vinniciusgomes.dev',
 }
