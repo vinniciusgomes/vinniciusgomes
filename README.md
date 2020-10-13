@@ -36,7 +36,9 @@ const importantLinks = {
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=vinniciusgomes&show_icons=true&title_color=121214&icon_color=00d9ff&text_color=121214&bg_color=ffffff" alt="vinniciusgomes" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinniciusgomes&layout=compact&show_icons=true&title_color=121214&icon_color=00d9ff&text_color=121214&bg_color=ffffff" alt="Top langs" />
 </p>
+
 
 <p align="center">
     <a href="https://github.com/vinniciusgomes" target="_blank"><img alt="vinniciusgomes" src="https://badges.pufler.dev/visits/vinniciusgomes/vinniciusgomes?logo=GitHub&label=Visits&color=success&logoColor=white&style=flat-square"/></a>
