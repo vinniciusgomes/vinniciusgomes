@@ -33,7 +33,6 @@ const importantLinks = {
 <a href="https://nodejs.org/" title="Node.js"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/nodejs-icon.svg" alt="Node.js" width="21px" height="21px"></a>
 <a href="https://expressjs.com/" title="Express"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/express.svg" alt="Express" width="21px" height="21px"></a>
 <a href="https://php.net/" title="PHP"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/php.svg" alt="PHP" width="21px" height="21px"></a>
-
 <a href="https://dev.mysql.com/" title="MySQL"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/mysql.svg" alt="MySQL" width="21px" height="21px"></a>
 <a href="https://www.mongodb.org/" title="MongoDB"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/mongodb-icon.svg" alt="MongoDB" width="21px" height="21px"></a>
 <a href="https://graphql.org/" title="GraphQL"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/graphql.svg" alt="GraphQL" width="21px" height="21px"></a>
@@ -54,7 +53,6 @@ const importantLinks = {
 <a href="https://jestjs.io/" title="Jest"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/jest.svg" alt="Jest" width="21px" height="21px"></a>
 <a href="https://code.visualstudio.com/" title="Visual Studio Code"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/visual-studio-code.svg" alt="Visual Studio Code" width="21px" height="21px"></a>
 <a href="https://electron.atom.io/" title="Electron"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/electron.svg" alt="Electron" width="21px" height="21px"></a>
-<a href="https://www.gatsbyjs.org/" title="Gatsby"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/gatsby.svg" alt="Gatsby" width="21px" height="21px"></a>
 <a href="https://wordpress.org/" title="WordPress"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/wordpress-icon.svg" alt="WordPress" width="21px" height="21px"></a>
 <a href="https://ant.design/" title="Ant Design"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/ant-design.svg" alt="Ant Design" width="21px" height="21px"></a>
 <a href="https://www.adobe.com/products/photoshop.html" title="Adobe Photoshop"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/adobe-photoshop.svg" alt="Adobe Photoshop" width="21px" height="21px"></a>
