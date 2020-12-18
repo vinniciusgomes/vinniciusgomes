@@ -56,7 +56,10 @@ const importantLinks = {
 <a href="https://electron.atom.io/" title="Electron"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/electron.svg" alt="Electron" width="21px" height="21px"></a>
 <a href="https://wordpress.org/" title="WordPress"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/wordpress-icon.svg" alt="WordPress" width="21px" height="21px"></a>
 <a href="https://ant.design/" title="Ant Design"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/ant-design.svg" alt="Ant Design" width="21px" height="21px"></a>
+<a href="http://azure.microsoft.com" title="Azure"><img src="https://camo.githubusercontent.com/55bf516423da49e3ff2ffd0c075b9952dd9899a1fde3e03bf308d8937a43b08c/68747470733a2f2f63646e2e737667706f726e2e636f6d2f6c6f676f732f617a7572652d69636f6e2e737667" alt="Azure" width="21px" height="21px"></a>
+<a href="http://figma.com" title="Figma"><img src="https://camo.githubusercontent.com/9c25db6c8f2f83863c65be2cc47543020be957662831452aa5a7d6d81129f6fe/68747470733a2f2f63646e2e737667706f726e2e636f6d2f6c6f676f732f6669676d612e737667" alt="Figma" width="21px" height="21px"></a>
 <a href="https://www.adobe.com/products/photoshop.html" title="Adobe Photoshop"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/adobe-photoshop.svg" alt="Adobe Photoshop" width="21px" height="21px"></a>
+
 
 
 <br />
