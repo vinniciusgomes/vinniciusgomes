@@ -13,7 +13,7 @@ I am a FrontEnd Architect, currently working at <a href="https://zappts.com" tar
 ```js
 const importantLinks = {
    📒 Medium: 'https://medium.com/@vinniciusgomes', 
-   👨🏻‍💻 My Website: 'https://vinniciusgomes.dev',
+   👨🏻‍💻 My Website: 'https://vinniciusgomes.com',
    👋 Email: 'hello@vinniciusgomes.dev',
 }
 ```
