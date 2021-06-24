@@ -7,7 +7,7 @@
 [![Stackoverflow Badge](https://img.shields.io/badge/-Stackoverflow-4CA143?style=flat-square&logo=Stackoverflow&logoColor=white&link=https://pt.stackoverflow.com/users/87615/vinnicius-gomes?tab=profile)](https://pt.stackoverflow.com/users/87615/vinnicius-gomes?tab=profile)
 [![Telegram Badge](https://img.shields.io/badge/-Telegram-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=telegram&logoColor=white&link=https://t.me/vinniciusgomes)](https://t.me/vinniciusgomes)
 
-I am a Senior Frontend Engineer, currently working at <a href="https://zappts.com" target="_blank">@Zappts</a> focused on JavaScript and its entire ecosystem using the main technologies of the market. Serving several clients around the world. I have already developed the most varied applications and for several reference companies in the market such as: Santander, Getnet, Ultragaz, Editora do Brasil, National Institute for Space Research, St. Marche, Zappts, Romasoft, Devmedia, among others.
+I'm a Software Engineer focused on Web development, I'm 21 years old and I live in Brazil. I currently work at <a href="https://uol.com.br" target="_blank">UOL</a>, which is the largest online content, digital services, and technology company in the country. I've developed the most diverse applications for several reference companies in the market such as UOL, Auttar, Santander, Getnet, Ultragaz, iClubs, Editora do Brasil, National Institute for Space Research, St. Marche, Provi, Zappts, Devmedia, among others.
 
 
 ```js
