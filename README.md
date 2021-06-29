@@ -61,14 +61,17 @@ const importantLinks = {
 <a href="https://www.adobe.com/products/photoshop.html" title="Adobe Photoshop"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/adobe-photoshop.svg" alt="Adobe Photoshop" width="21px" height="21px"></a>
 
 
-
-<br />
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vinniciusgomes&show_icons=true&title_color=fff&icon_color=00d9ff&text_color=c9d1d9&bg_color=161b22" alt="vinniciusgomes" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinniciusgomes&layout=compact&show_icons=true&title_color=fff&icon_color=fff&text_color=c9d1d9&bg_color=161b22" alt="Top langs" />
-</p>
-
+<table align="center">
+  <row>
+    <td>
+     <!-- Card -->
+      <img height='200' src='https://github-readme-stats.vercel.app/api/top-langs/?username=vinniciusgomes&layout=compact&theme=react'>
+    </td>
+    <td>
+      <img height='200' src='https://github-readme-stats.vercel.app/api?username=vinniciusgomes&show_icons=true&theme=react'>
+    </td>
+  </row>
+</table> 
 
 <p align="center">
     <a href="https://github.com/vinniciusgomes" target="_blank"><img alt="vinniciusgomes" src="https://badges.pufler.dev/visits/vinniciusgomes/vinniciusgomes?logo=GitHub&label=Visits&color=success&logoColor=white&style=flat-square"/></a>
