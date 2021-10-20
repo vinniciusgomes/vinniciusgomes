@@ -1,4 +1,4 @@
-## Hello, I’m Vinnicius Gomes 🤙
+## Hello, I’m Vinnicius Gomes <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>
 
 [![Portfolio Badge](https://img.shields.io/badge/Website-vinniciusgomes.dev-black)](https://vinniciusgomes.dev)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vinniciusgomes/)](https://www.linkedin.com/in/vinniciusgomes/) 
@@ -24,7 +24,6 @@ const importantLinks = {
 **Languages and Tools 🚀**
 
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" title="JavaScript"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/javascript.svg" alt="JavaScript" width="21px" height="21px"></a>
-<a href="https://tc39.es/ecma262/" title="ECMAScript 6"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/es6.svg" alt="ECMAScript 6" width="21px" height="21px"></a>
 <a href="https://www.typescriptlang.org/" title="Typescript"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/typescript-icon.svg" alt="Typescript" width="21px" height="21px"></a>
 <a href="https://reactjs.org/" title="React"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/react.svg" alt="React" width="21px" height="21px"></a>
 <a href="https://redux.js.org/" title="Redux"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/redux.svg" alt="Redux" width="21px" height="21px"></a>
@@ -64,6 +63,15 @@ const importantLinks = {
 <a href="https://www.adobe.com/products/photoshop.html" title="Adobe Photoshop"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/adobe-photoshop.svg" alt="Adobe Photoshop" width="21px" height="21px"></a>
 
 
+**Last posts 📒**
+<!-- BLOG-POST-LIST:START -->
+- [Usando Root Import no React](https://vinniciusgomes.medium.com/root-import-com-react-e-typescript-8ad7259d87cc)
+- [Arquitetando uma aplicação React](https://vinniciusgomes.medium.com/arquitetando-uma-aplicação-react-de-uma-forma-organizada-e-escalável-4e4491e9bf39)
+- [Criando uma documentação para aplicações FrontEnd](https://vinniciusgomes.medium.com/criando-uma-documentação-para-aplicações-frontend-56eab8438f60)
+- [Arquitetura de projetos React com diferentes módulos](https://vinniciusgomes.medium.com/arquitetura-de-projetos-react-com-diferentes-módulos-66cd569fa7ac)
+<!-- BLOG-POST-LIST:END -->
+
+
 <table align="center">
   <row>
     <td>
@@ -75,10 +83,6 @@ const importantLinks = {
     </td>
   </row>
 </table> 
-
-**Blog posts 📒**
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
 
 <p align="center">
     <a href="https://github.com/vinniciusgomes" target="_blank"><img alt="vinniciusgomes" src="https://badges.pufler.dev/visits/vinniciusgomes/vinniciusgomes?logo=GitHub&label=Visits&color=success&logoColor=white&style=flat-square"/></a>
