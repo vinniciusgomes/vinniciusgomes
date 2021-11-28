@@ -1,5 +1,15 @@
 ## Hello, I’m Vinnicius Gomes <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>
 
+<div align="left">
+  <a href="https://api.daily.dev/get?r=vinniciusgomes" target="_blank">
+    <img
+      width="256"
+      align="right"
+      src="https://api.daily.dev/devcards/d235deaef3644ecfb39a2c08e9809d93.png?r=mei"
+    />
+  </a>
+</div>
+
 [![Portfolio Badge](https://img.shields.io/badge/Website-vinniciusgomes.dev-black)](https://vinniciusgomes.dev)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vinniciusgomes/)](https://www.linkedin.com/in/vinniciusgomes/) 
 [![Medium Badge](https://img.shields.io/badge/-Medium-292929?style=flat-square&labelColor=292929&logo=Medium&link=https://medium.com/@vinniciusgomes/)](https://medium.com/@vinniciusgomes/)
@@ -10,7 +20,7 @@
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/Q5Q86L7M9)
 
 
-I'm a Software Engineer focused on Web development, I'm 22 years old and I live in Brazil. I currently work at <a href="https://iclubs.tech">iClubs</a>, building the next generation of loyalty. I've developed the most diverse applications for several reference companies in the market such as <a href="https://uol.com.br">UOL</a>, <a href="https://www.pagonxt.com/">PagoNxt</a>, <a href="https://www.auttar.com.br">Auttar</a>, <a href="https://www.santander.com/en/home">Santander</a>, <a href="https://site.getnet.com.br">Getnet</a>, <a href="https://www.ultragaz.com.br">Ultragaz</a>, <a href="https://www.iclubs.tech">iClubs</a>, <a href="https://www.editoradobrasil.com.br">Editora do Brasil</a>, <a href="http://www.inpe.br">National Institute for Space Research</a>, <a href="https://www.marche.com.br">St. Marche</a>, <a href="https://provi.com.br">Provi</a>, <a href="https://zappts.com">Zappts</a>, <a href="https://devmedia.com.br">Devmedia</a>, <a href="https://vinniciusgomes.dev/companies">among others</a>...
+I'm a Software Engineer focused on Web development, I'm 22 years old and based in Brazil. I currently work at <a href="https://iclubs.tech">iClubs</a>, building the next generation of loyalty. I've developed the most diverse applications for several reference companies in the market such as <a href="https://uol.com.br">UOL</a>, <a href="https://www.pagonxt.com/">PagoNxt</a>, <a href="https://www.auttar.com.br">Auttar</a>, <a href="https://www.santander.com/en/home">Santander</a>, <a href="https://site.getnet.com.br">Getnet</a>, <a href="https://www.ultragaz.com.br">Ultragaz</a>, <a href="https://www.iclubs.tech">iClubs</a>, <a href="https://www.editoradobrasil.com.br">Editora do Brasil</a>, <a href="http://www.inpe.br">National Institute for Space Research</a>, <a href="https://www.marche.com.br">St. Marche</a>, <a href="https://provi.com.br">Provi</a>, <a href="https://zappts.com">Zappts</a>, <a href="https://devmedia.com.br">Devmedia</a>, <a href="https://vinniciusgomes.dev/companies">among others</a>...
 
 
 ```js
@@ -65,10 +75,11 @@ const importantLinks = {
 
 **Last posts 📒**
 <!-- BLOG-POST-LIST:START -->
+- [Arquitetando uma aplicação Next.js](https://vinniciusgomes.medium.com/arquitetando-uma-aplica%C3%A7%C3%A3o-next-js-4e30f45d69ac)
+- [Refresh Token com Axios Interceptors e fila de requisições](https://vinniciusgomes.medium.com/refresh-token-com-axios-interceptors-e-fila-de-requisicoes-cf5eb39ee586)
 - [Usando Root Import no React](https://vinniciusgomes.medium.com/root-import-com-react-e-typescript-8ad7259d87cc)
-- [Arquitetando uma aplicação React](https://vinniciusgomes.medium.com/arquitetando-uma-aplicação-react-de-uma-forma-organizada-e-escalável-4e4491e9bf39)
-- [Criando uma documentação para aplicações FrontEnd](https://vinniciusgomes.medium.com/criando-uma-documentação-para-aplicações-frontend-56eab8438f60)
-- [Arquitetura de projetos React com diferentes módulos](https://vinniciusgomes.medium.com/arquitetura-de-projetos-react-com-diferentes-módulos-66cd569fa7ac)
+- [Arquitetura para aplicações React](https://vinniciusgomes.medium.com/arquitetando-uma-aplica%C3%A7%C3%A3o-react-de-uma-forma-organizada-e-escal%C3%A1vel-4e4491e9bf39)
+- [Criando uma documentação com StoryBook para React](https://vinniciusgomes.medium.com/criando-uma-documenta%C3%A7%C3%A3o-para-aplica%C3%A7%C3%B5es-frontend-56eab8438f60)
 <!-- BLOG-POST-LIST:END -->
 
 
