@@ -1,15 +1,5 @@
 ## Hello, I’m Vinnicius Gomes <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>
 
-<div align="left">
-  <a href="https://api.daily.dev/get?r=vinniciusgomes" target="_blank">
-    <img
-      width="256"
-      align="right"
-      src="https://api.daily.dev/devcards/d235deaef3644ecfb39a2c08e9809d93.png?r=mei"
-    />
-  </a>
-</div>
-
 [![Portfolio Badge](https://img.shields.io/badge/Website-vinniciusgomes.dev-black)](https://vinniciusgomes.dev)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vinniciusgomes/)](https://www.linkedin.com/in/vinniciusgomes/) 
 [![Medium Badge](https://img.shields.io/badge/-Medium-292929?style=flat-square&labelColor=292929&logo=Medium&link=https://medium.com/@vinniciusgomes/)](https://medium.com/@vinniciusgomes/)
