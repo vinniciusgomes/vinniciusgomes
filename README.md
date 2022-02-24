@@ -16,8 +16,6 @@
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/vinniciusgomees)](https://twitter.com/vinniciusgomees)
 [![Stackoverflow Badge](https://img.shields.io/badge/-Stackoverflow-4CA143?style=flat-square&logo=Stackoverflow&logoColor=white&link=https://pt.stackoverflow.com/users/87615/vinnicius-gomes?tab=profile)](https://pt.stackoverflow.com/users/87615/vinnicius-gomes?tab=profile)
 
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/Q5Q86L7M9)
-
 
 I'm a Software Engineer focused on Web development, I'm 22 years old and based in Brazil. I currently work at <a href="https://iclubs.tech">iClubs</a>, building the next generation of loyalty. I've developed the most diverse applications for several reference companies in the market such as <a href="https://uol.com.br">UOL</a>, <a href="https://www.pagonxt.com/">PagoNxt</a>, <a href="https://www.auttar.com.br">Auttar</a>, <a href="https://www.santander.com/en/home">Santander</a>, <a href="https://site.getnet.com.br">Getnet</a>, <a href="https://www.ultragaz.com.br">Ultragaz</a>, <a href="https://www.iclubs.tech">iClubs</a>, <a href="https://www.editoradobrasil.com.br">Editora do Brasil</a>, <a href="http://www.inpe.br">National Institute for Space Research</a>, <a href="https://www.marche.com.br">St. Marche</a>, <a href="https://provi.com.br">Provi</a>, <a href="https://zappts.com">Zappts</a>, <a href="https://devmedia.com.br">Devmedia</a>, <a href="https://vinniciusgomes.dev/companies">among others</a>...
 
@@ -73,12 +71,14 @@ const importantLinks = {
 
 **Last posts 📒**
 <!-- BLOG-POST-LIST:START -->
+- [Você ainda usa CREATE-REACT-APP em 2022?](https://vinniciusgomes.medium.com/voc%C3%AA-ainda-usa-create-react-app-em-2022-3434aff3d644)
 - [Arquitetando uma aplicação Next.js](https://vinniciusgomes.medium.com/arquitetando-uma-aplica%C3%A7%C3%A3o-next-js-4e30f45d69ac)
 - [Refresh Token com Axios Interceptors e fila de requisições](https://vinniciusgomes.medium.com/refresh-token-com-axios-interceptors-e-fila-de-requisicoes-cf5eb39ee586)
 - [Usando Root Import no React](https://vinniciusgomes.medium.com/root-import-com-react-e-typescript-8ad7259d87cc)
 - [Arquitetura para aplicações React](https://vinniciusgomes.medium.com/arquitetando-uma-aplica%C3%A7%C3%A3o-react-de-uma-forma-organizada-e-escal%C3%A1vel-4e4491e9bf39)
-- [Criando uma documentação com StoryBook para React](https://vinniciusgomes.medium.com/criando-uma-documenta%C3%A7%C3%A3o-para-aplica%C3%A7%C3%B5es-frontend-56eab8438f60)
 <!-- BLOG-POST-LIST:END -->
+
+<a href="https://vinniciusgomes.medium.com/">See more posts...</a>
 
 
 <table align="center">
@@ -93,6 +93,5 @@ const importantLinks = {
   </row>
 </table> 
 
-<p align="center">
-    <a href="https://github.com/vinniciusgomes" target="_blank"><img alt="vinniciusgomes" src="https://badges.pufler.dev/visits/vinniciusgomes/vinniciusgomes?logo=GitHub&label=Visits&color=success&logoColor=white&style=flat-square"/></a>
-</p>
+
+![Vinnicius Gomes github activity graph](https://activity-graph.herokuapp.com/graph?username=vinniciusgomes&theme=react-dark)
