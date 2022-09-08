@@ -14,7 +14,7 @@ I'm a Software Engineer focused on Web development, I'm 22 years old and based i
 const importantLinks = {
    📒 Medium: 'https://medium.com/@vinniciusgomes', 
    👨🏻‍💻 Portfolio: 'https://vinniciusgomes.com',
-   👋 Email: 'hello@vinniciusgomes.dev',
+   👋 Email: 'contato@vinniciusgomes.com',
 }
 ```
 
