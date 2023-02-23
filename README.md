@@ -82,6 +82,3 @@ const importantLinks = {
     </td>
   </row>
 </table> 
-
-
-![Vinnicius Gomes github activity graph](https://activity-graph.herokuapp.com/graph?username=vinniciusgomes&theme=react-dark)
