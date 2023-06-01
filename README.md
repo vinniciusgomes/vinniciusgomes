@@ -59,10 +59,10 @@ const importantLinks = {
 <a href="https://www.adobe.com/products/photoshop.html" title="Adobe Photoshop"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/adobe-photoshop.svg" alt="Adobe Photoshop" width="21px" height="21px"></a>
 
 
-**Last posts 📒**
+**Last articles 📒**
 <!-- BLOG-POST-LIST:START -->
 <div align="left">
-  <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=6&username=vinniciusgomes&theme=dark" alt="Layout with last medium posts"  />
+  <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=6&username=vinniciusgomes&theme=dracula" alt="Layout with last medium posts"  />
 </div>
 <!-- BLOG-POST-LIST:END -->
 
