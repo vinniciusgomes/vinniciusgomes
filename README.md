@@ -61,7 +61,7 @@ const importantLinks = {
 
 **Last posts 📒**
 <!-- BLOG-POST-LIST:START -->
-<div align="center">
+<div align="left">
   <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=6&username=vinniciusgomes&theme=dark" alt="Layout with last medium posts"  />
 </div>
 <!-- BLOG-POST-LIST:END -->
@@ -69,7 +69,7 @@ const importantLinks = {
 <a href="https://vinniciusgomes.medium.com/">See more posts...</a>
 
 
-<table align="center">
+<table align="left">
   <row>
     <td>
      <!-- Card -->
