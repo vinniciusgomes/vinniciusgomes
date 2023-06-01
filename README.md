@@ -82,3 +82,12 @@ const importantLinks = {
     </td>
   </row>
 </table> 
+
+
+###
+
+<br clear="both">
+
+<img src="./.github/snake.svg" alt="Snake animation" />
+
+###
