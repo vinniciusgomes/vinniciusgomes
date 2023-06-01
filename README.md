@@ -61,11 +61,9 @@ const importantLinks = {
 
 **Last posts 📒**
 <!-- BLOG-POST-LIST:START -->
-- [Você ainda usa CREATE-REACT-APP em 2022?](https://vinniciusgomes.medium.com/voc%C3%AA-ainda-usa-create-react-app-em-2022-3434aff3d644)
-- [Arquitetando uma aplicação Next.js](https://vinniciusgomes.medium.com/arquitetando-uma-aplica%C3%A7%C3%A3o-next-js-4e30f45d69ac)
-- [Refresh Token com Axios Interceptors e fila de requisições](https://vinniciusgomes.medium.com/refresh-token-com-axios-interceptors-e-fila-de-requisicoes-cf5eb39ee586)
-- [Usando Root Import no React](https://vinniciusgomes.medium.com/root-import-com-react-e-typescript-8ad7259d87cc)
-- [Arquitetura para aplicações React](https://vinniciusgomes.medium.com/arquitetando-uma-aplica%C3%A7%C3%A3o-react-de-uma-forma-organizada-e-escal%C3%A1vel-4e4491e9bf39)
+<div align="center">
+  <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=6&username=vinniciusgomes&theme=dark" alt="Layout with last medium posts"  />
+</div>
 <!-- BLOG-POST-LIST:END -->
 
 <a href="https://vinniciusgomes.medium.com/">See more posts...</a>
