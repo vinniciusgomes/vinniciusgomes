@@ -7,11 +7,13 @@
 [![Stackoverflow Badge](https://img.shields.io/badge/-Stackoverflow-4CA143?style=flat-square&logo=Stackoverflow&logoColor=white&link=https://pt.stackoverflow.com/users/87615/vinnicius-gomes?tab=profile)](https://pt.stackoverflow.com/users/87615/vinnicius-gomes?tab=profile)
 
 
-I'm currently a Senior Software Engineer at Liber Capital . Based in São José dos Campos, Brazil, I've been dedicating myself to contributing to the community by sharing my knowledge through articles.
+My name is Vinnicius Gomes, a software engineer passionate about traveling, finances, mountain biker, and reading. I'm 24 years old, married, and based in São José dos Campos, São Paulo.
 
-I started in the developing world in 2012, learning to program by researching the internet. At only 12 years old, I developed my first website, since then, I never stopped. In 2017, I started my bachelor's degree in computer science, and I fell in love even more with the area.
+I started in the developing world in 2012, learning to program by researching the internet. At only 12 years old, I developed my first website, since then, I never stopped. In 2017, I started my bachelor's degree in computer science, and I fell in love even more with the area. I've been dedicating myself every day to contribute to the community by sharing my knowledge through articles.
 
-My personal mission is to push the world forward by creating a bridge between people and technology.
+I currently work as a Senior Software Engineer at Liber Capital, focusing on one of the company's key financial products, handling over R$2 billion per month. I am involved in building cutting-edge applications to serve some of the leading companies in the country.
+
+I've developed more than 100 projects for over 28 countries around the world, projects that earn more than 250 million dollars in revenue per month, and with more than 20 million users, for leading companies in the market like the Government of Brazil, UOL, Santander, Burger King, IBM, Heineken, HBO, BTG Pactual, United Nations, among others.
 
 
 ```js
