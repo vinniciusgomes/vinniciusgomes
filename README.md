@@ -7,13 +7,17 @@
 [![Stackoverflow Badge](https://img.shields.io/badge/-Stackoverflow-4CA143?style=flat-square&logo=Stackoverflow&logoColor=white&link=https://pt.stackoverflow.com/users/87615/vinnicius-gomes?tab=profile)](https://pt.stackoverflow.com/users/87615/vinnicius-gomes?tab=profile)
 
 
-I'm a Senior Software Engineer focused on Web development, I'm 23 years old and based in Brazil. I currently work at <a href="https://libercapital.com.br/">Liber Capital</a>. I've developed the most diverse applications for several reference companies in the market such as <a href="https://iclubs.tech">iClubs</a>, <a href="https://uol.com.br">UOL</a>, <a href="https://www.pagonxt.com/">PagoNxt</a>, <a href="https://www.auttar.com.br">Auttar</a>, <a href="https://www.santander.com/en/home">Santander</a>, <a href="https://site.getnet.com.br">Getnet</a>, <a href="https://www.ultragaz.com.br">Ultragaz</a>, <a href="https://www.iclubs.tech">iClubs</a>, <a href="https://www.editoradobrasil.com.br">Editora do Brasil</a>, <a href="http://www.inpe.br">National Institute for Space Research</a>, <a href="https://www.marche.com.br">St. Marche</a>, <a href="https://provi.com.br">Provi</a>, <a href="https://zappts.com">Zappts</a>, <a href="https://devmedia.com.br">Devmedia</a>, <a href="https://vinniciusgomes.dev/companies">among others</a>...
+I'm currently a Senior Software Engineer at Liber Capital . Based in São José dos Campos, Brazil, I've been dedicating myself to contributing to the community by sharing my knowledge through articles.
+
+I started in the developing world in 2012, learning to program by researching the internet. At only 12 years old, I developed my first website, since then, I never stopped. In 2017, I started my bachelor's degree in computer science, and I fell in love even more with the area.
+
+My personal mission is to push the world forward by creating a bridge between people and technology.
 
 
 ```js
 const importantLinks = {
    📒 Medium: 'https://medium.com/@vinniciusgomes', 
-   👨🏻‍💻 Portfolio: 'https://vinniciusgomes.com',
+   👨🏻‍💻 Website: 'https://vinniciusgomes.com',
    👋 Email: 'contato@vinniciusgomes.com',
 }
 ```
