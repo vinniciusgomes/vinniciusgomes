@@ -58,17 +58,6 @@ const importantLinks = {
 <a href="http://figma.com" title="Figma"><img src="https://camo.githubusercontent.com/9c25db6c8f2f83863c65be2cc47543020be957662831452aa5a7d6d81129f6fe/68747470733a2f2f63646e2e737667706f726e2e636f6d2f6c6f676f732f6669676d612e737667" alt="Figma" width="21px" height="21px"></a>
 <a href="https://www.adobe.com/products/photoshop.html" title="Adobe Photoshop"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/adobe-photoshop.svg" alt="Adobe Photoshop" width="21px" height="21px"></a>
 
-
-**Last articles 📒**
-<!-- BLOG-POST-LIST:START -->
-<div align="left">
-  <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=6&username=vinniciusgomes&theme=dracula" alt="Layout with last medium posts"  />
-</div>
-<!-- BLOG-POST-LIST:END -->
-
-<a href="https://vinniciusgomes.medium.com/">See more posts...</a>
-
-
 <table align="left">
   <row>
     <td>
