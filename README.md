@@ -62,6 +62,7 @@ const importantLinks = {
 <a href="https://wordpress.org/" title="WordPress"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/wordpress-icon.svg" alt="WordPress" width="21px" height="21px"></a>
 <a href="https://ant.design/" title="Ant Design"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/ant-design.svg" alt="Ant Design" width="21px" height="21px"></a>
 <a href="https://www.adobe.com/products/photoshop.html" title="Adobe Photoshop"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/adobe-photoshop.svg" alt="Adobe Photoshop" width="21px" height="21px"></a>
+<img src="https://raw.githubusercontent.com/tomchen/stack-icons/634d5c036a2a7ca0115c94ab2ce86c7e79e01e13/logos/go.svg" alt="Go Lang" width="21px" height="21px">
 
 <table align="left">
   <row>
